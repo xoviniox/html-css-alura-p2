@@ -34,6 +34,12 @@ nav a {
 
 .produtos h2 {
     font-size: 30px;
+    
+    nav a:hover {
+    color: #C78C19;
+    text-decoration: underline;
+}
+    
     font-weight: bold;
 }
 
